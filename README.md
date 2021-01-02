@@ -21,4 +21,4 @@ Inspirado em períodos como a Segunda Guerra Mundial e a Guerra da Coreia, o gam
 
 ## Tela do projeto:
 
-![paginas_web](https://github.com/claudineinobrega/JogoMilitar/blob/imgs/game.png)
+![paginas_web](https://github.com/claudineinobrega/JogoMilitar/blob/master/imgs/game.png)
